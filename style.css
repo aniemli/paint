@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("Screenshot\ 2021-10-03\ 180212.png");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: black; 
+      font-size: 80px;
+  }
+  #myCanvas
+  {
+      border-width:5px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: red;
+    border: none;
+    color:white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
